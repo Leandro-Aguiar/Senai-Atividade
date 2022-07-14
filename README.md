@@ -1,4 +1,4 @@
-# Senai-Atividade
+﻿# Senai-Atividade
 Atividade da matéria de versionamento
 Comandos utilizados para gerenciar o versionamento do código
 
@@ -17,4 +17,8 @@ git add .
 git log
 git pull
 git push
+git tag -a v1.0 -m "Atividade avaliativa"
+git tag
+git show v1.0
 git push origin --tags
+
