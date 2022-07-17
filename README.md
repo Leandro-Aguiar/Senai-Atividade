@@ -61,4 +61,4 @@ _Branch desenvolvimento criada pelo desenvolvedor Leandro
 
 _Branch desenvolvimento2 criada pela desenvolvedora Débora
 
-Após o desenvolvimento das _branchs e feitas as _alterações,foram unidas,gerando conflito na qual foi resolvido aproveitando as duas idéias e então englobadas ao ramo principal(master).
+Após o desenvolvimento das _branchs e feitas _alterações,foram unidas,gerando conflito na qual foi resolvido aproveitando as duas idéias e então englobadas ao ramo principal(master).
