@@ -41,6 +41,20 @@ git show v1.0
 
 git push origin --tags
 
+git checkout -b desenvolvimento
+
+git push origin desenvolvimento
+
+git pull
+
+git merge desenvolvimento2
+
+git checkout master
+
+git merge desenvolvimento
+
+git push -u origin master
+
 Versionamento do código
 
 Branch desenvolvimento criada pelo desenvolvedor Leandro
@@ -48,7 +62,3 @@ Branch desenvolvimento criada pelo desenvolvedor Leandro
 Branch desenvolvimento2 criada pela desenvolvedora Débora
 
 Após o desenvolvimento das branchs e feitas as alterações,foram unidas,gerando conflito na qual foi resolvido aproveitando as duas idéias e então englobadas ao ramo principal(master).
-
-
-
-
